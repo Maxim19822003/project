@@ -57,7 +57,7 @@ public class Main {
                                 choiceModel = 1;
                                 System.out.println("Не совсем верное значение..");
                             }
-                            else userOs = oss.get(choiceModel);
+                            else userModel = models.get(choiceModel);
                         } catch (NumberFormatException ex) {
                             System.out.println("Введено всё что угодно, но не число.");
                         }
