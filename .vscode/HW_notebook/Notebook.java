@@ -1,4 +1,4 @@
-package HW;
+package HW_notebook;
 
 import java.util.Map;
 import java.util.Random;
